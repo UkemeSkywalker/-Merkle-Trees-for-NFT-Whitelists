@@ -26,7 +26,7 @@ async function main() {
     const claimingAddress = leafNodes[0];
 
     const hexProof = merkletree.getHexProof(claimingAddress);
-    console.log("claimingAddress:", claimingAddress.toLocaleString(), "\n Merkle Proof:", hexProof);
+    console.log("Merkle Proof:", hexProof);
 
 }
 
