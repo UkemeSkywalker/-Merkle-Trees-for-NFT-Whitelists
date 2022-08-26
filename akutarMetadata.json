@@ -1,0 +1,33 @@
+{
+    "title": "Akutar Replica NFT",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "Akutar Replica NFT"
+            
+        },
+        "description": {
+            "type": "string",
+            "description": "A Replica of Former MLB player and rising digital artist Micah Johnsons NFT "
+        },
+        "image": {
+            "type": "string",
+            "description": "https://gateway.pinata.cloud/ipfs/QmcdyYvdqfyxhZVfnD6481pRkmWC2Lw76sXDiY5RjPUQiN"
+        },
+        "attributes": [
+            {
+                "trait_type": "Collection",
+                "value": "Allstars"
+            },
+            {
+                "trait_type": "Access",
+                "value": "Free Movie Tickets"
+            },
+            {
+            "trait_type": "Level",
+            "display_type": "number", 
+            "value": 10
+          }
+        ]
+    }
+}
