@@ -12,7 +12,10 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 
 ```
-Contract deployed to: 0x6c1c1891Ec33c2460F52af8bbdf214FBf869fdAb
+
+```
+Contract deployed to: 0x9996e4d77059998A729a42aD948e138cBD61109f
+```
 
 Watch:
 https://www.youtube.com/watch?v=YIc6MNfv5iQ

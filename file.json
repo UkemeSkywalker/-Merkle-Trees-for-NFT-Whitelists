@@ -1,0 +1,19 @@
+{
+    "description": "A Replica of Former MLB player and rising digital artist Micah Johnsons NFT ", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmcdyYvdqfyxhZVfnD6481pRkmWC2Lw76sXDiY5RjPUQiN", 
+    "name": "Akutar Replica NFT",
+    "attributes": [
+          {
+            "trait_type": "Colour", 
+            "value": "Mixed"
+          }, 
+          {
+            "trait_type": "Coolness", 
+            "value": "A lot!"
+          }, 
+          {
+            "trait_type": "Token Standard", 
+            "value": "ERC721"
+          }
+     ]
+  }

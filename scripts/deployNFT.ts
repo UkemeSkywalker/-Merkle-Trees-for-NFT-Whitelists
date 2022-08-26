@@ -3,7 +3,7 @@ import {ethers} from "hardhat";
 
 async function main() {
     
-    const deployNft = await ethers.getContractFactory("AkutarReplicaNFT");
+    const deployNft = await ethers.getContractFactory("AkutarsReplicas");
     const DeployNft = (await deployNft).deploy();
 
     await (await DeployNft).deployed();
